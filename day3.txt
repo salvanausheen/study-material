@@ -1,0 +1,8 @@
+AWS topics learned:-
+VPC
+RT
+IGW
+SG
+EC2
+SN
+
